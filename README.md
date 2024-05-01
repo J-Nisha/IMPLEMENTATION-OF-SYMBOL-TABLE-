@@ -1,4 +1,8 @@
 # Ex-2 IMPLEMENTATION-OF-SYMBOL-TABLE
+# NAME:Nisha.J
+# REGISTER NUMBER:212223040133
+# DATE:15.02.2024
+
 # AIM :
 ## To write a C program to implement a symbol table.
 # ALGORITHM
